@@ -152,3 +152,14 @@ vendors:
     deployment: "SaaS"
     pricing: "Not Published"
     notes: ""
+
+      - company: "Kitecyber"
+    product: "Kitecyber Infra Shield"
+    url: "https://www.kitecyber.com/product/zero-trust-network-access/"
+    license: "Commercial"
+    deployment: "SaaS"
+    pricing: "$7 per user/month"
+    notes: "Kitecyber Infra Shield is a passwordless ZTNA solution that runs on your infrastructure or cloud. Acting as a secure network gateway, it enforces the “never trust, always verify” principle. It continuously validates user and device access to public or private cloud resources while keeping applications and resources invisible to attackers.
+"
+
+    
